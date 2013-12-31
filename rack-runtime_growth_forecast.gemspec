@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Takashi Kokubun"]
   spec.email         = ["takashikkbn@gmail.com"]
   spec.summary       = %q{Rack middleware to post X-Runtime to GrowthForecast}
-  spec.description   = %q{Rack middleware to post X-Runtime to GrowthForecast}
+  spec.description   = %q{A simple Rack middleware to post X-Runtime to GrowthForecast}
   spec.homepage      = ""
   spec.license       = "MIT"
 
