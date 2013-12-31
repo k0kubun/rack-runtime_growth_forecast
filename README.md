@@ -11,7 +11,7 @@ gem 'rack-runtime_growth_forecast'
 
 ```ruby
 # config/application.rb
-module YourRackApp
+module YourRailsApp
   class Application < Rails::Application
     # ...
     options = {
