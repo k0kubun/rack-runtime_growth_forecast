@@ -1,4 +1,5 @@
-require "rack/runtime_growth_forecast/version"
+require 'rack/runtime_growth_forecast/version'
+require 'growthforecast'
 
 module Rack
   class RuntimeGrowthForecast
